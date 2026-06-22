@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="docs/logo-horizontal.png" width="350">
+</p>
+
+<h1 align="center">FronteraPOS</h1>
+
+<p align="center">
+Sistema de Gestión para Restaurantes
+</p>
+
 # 🍽️ FronteraPOS - Backend
 
 API REST desarrollada con Spring Boot para el sistema de gestión de restaurantes **FronteraPOS**.
