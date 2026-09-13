@@ -1,0 +1,6 @@
+# Evidencia académica del despliegue solicitado.
+# Railway utiliza railway.toml como configuración ejecutable.
+build:
+  command: ./mvnw clean install -DskipTests
+deploy:
+  command: java -jar target/categoriasapi-0.0.1-SNAPSHOT.jar
